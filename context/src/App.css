@@ -1,0 +1,8 @@
+.app{
+  height: 100vh;
+}
+
+.app.dark{
+  background-color: black;
+  color: white;
+}
